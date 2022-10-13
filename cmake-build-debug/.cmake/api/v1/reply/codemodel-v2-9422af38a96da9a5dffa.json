@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Algo_Projects",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Algo_Projects::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Algo_Projects-Debug-d3bbc9bc074f6ccdec35.json",
+					"name" : "Algo_Projects",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/NSBM/Course Work/1 Year 2 Semester/Data Structures & Algorithms/Projects/Algo-Projects/cmake-build-debug",
+		"source" : "D:/NSBM/Course Work/1 Year 2 Semester/Data Structures & Algorithms/Projects/Algo-Projects"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
