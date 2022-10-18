@@ -11,7 +11,7 @@ void push(int ele){ //error 2
     printf("Item Added to index %d\n", st.top);
 }
 
-int pop(int ele){ //error 4
+void pop(int ele){ //error 4
     int out=st.myarray[st.top]; //error 5
     printf("popped out item at index %d", st.top);	//error 6
 }
